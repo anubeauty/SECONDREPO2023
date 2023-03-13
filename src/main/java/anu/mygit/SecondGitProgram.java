@@ -6,6 +6,8 @@ public class SecondGitProgram {
 		
 		   
 		  System.out.println("hello this is my second program!!!");
+		  
+		  System.out.println("Hare Krishna!!!");
 		
 		 
 	}
